@@ -1,0 +1,11 @@
+1. Document driven: version-controlled
+2. Outcome Driven: Declarative
+3. Heal + Run: self-heal,self-scale,self-deploy
+
+Code > Container > K8s Deployment
+a. copy a python project
+b. Containerize it
+c. Push it to docker hub
+d. Provision a kubernetes cluster
+e. Deploy a container
+
