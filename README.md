@@ -1,1 +1,1 @@
-Three Rules in Terraform + Kuberenetes
+Three Rules in Terraform + Kuber\netes
